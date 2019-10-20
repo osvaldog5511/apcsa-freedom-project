@@ -2,7 +2,7 @@
 by Osvaldo Gomez
 
 ## Context
-Text
+
 
 ## Content
 Text
